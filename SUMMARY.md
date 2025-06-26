@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 ## Getting Started
 
@@ -6,11 +6,11 @@
 
 ## Meet the Team
 
-* [Internal Communications Team](meet-the-team/README.md)
+* [Internal Communications Team](meet-the-team/meet-the-team.md)
 
 ## How We Work
 
-* [Overview](how-we-work/README.md)
+* [Overview](how-we-work/how-we-work.md)
 * [Our Service Model](how-we-work/service-model.md)
 * [Service Timelines](how-we-work/timelines.md)
 * [Governance and Approvals](how-we-work/governance.md)
@@ -18,35 +18,35 @@
 
 ## Planning Calendar
 
-* [Planning Overview](planning-calendar/README.md)
+* [Planning Overview](planning-calendar/planning-calendar.md)
 * [90-Day Planning Cycle](planning-calendar/90-day-cycle.md)
 * [Weekly Schedule](planning-calendar/weekly-schedule.md)
 * [Booking Process](planning-calendar/booking.md)
 
 ## How-To Guides
 
-* [Guides Overview](guides/README.md)
-* [Writing Effective All-Staff Emails](guides/all-staff-email.md)
-* [Team Talk Toolkit](guides/team-talk.md)
-* [Channel Selection](guides/channel-selection.md)
-* [Plain English Writing](guides/plain-english.md)
-* [Campaign Planning](guides/campaign-planning.md)
-* [Measurement and Analytics](guides/measurement.md)
-* [Change Communications](guides/change-communications.md)
-* [Recognition and Celebration](guides/recognition.md)
+* [Guides Overview](how-to-guides/guides.md)
+* [Writing Effective All-Staff Emails](how-to-guides/all-staff-email.md)
+* [Team Talk Toolkit](how-to-guides/team-talk.md)
+* [Channel Selection](how-to-guides/channel-selection.md)
+* [Plain English Writing](how-to-guides/plain-english.md)
+* [Campaign Planning](how-to-guides/campaign-planning.md)
+* [Measurement and Analytics](how-to-guides/measurement.md)
+* [Change Communications](how-to-guides/change-communications.md)
+* [Recognition and Celebration](how-to-guides/recognition.md)
 
 ## Templates and Tools
 
-* [Templates Overview](templates/README.md)
-* [Communication Brief](templates/communication-brief.md)
-* [Team Talk Toolkit](templates/team-talk-toolkit.md)
-* [Email Templates](templates/email-template.md)
-* [Planning Template](templates/planning-template.md)
-* [Measurement Tools](templates/measurement-tools.md)
+* [Templates Overview](templates-and-tools/templates.md)
+* [Communication Brief](templates-and-tools/communication-brief.md)
+* [Team Talk Toolkit](templates-and-tools/team-talk-toolkit.md)
+* [Email Templates](templates-and-tools/email-template.md)
+* [Planning Template](templates-and-tools/planning-template.md)
+* [Measurement Tools](templates-and-tools/measurement-tools.md)
 
 ## FAQs
 
-* [Frequently Asked Questions](faqs/README.md)
+* [Frequently Asked Questions](faqs/faqs.md)
 
 ## Resources
 
