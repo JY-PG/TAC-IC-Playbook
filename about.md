@@ -31,7 +31,7 @@ The Internal Communications Strategy proposes four fundamental shifts:
 
 ### Listen to the Strategy Overview
 
-🎧 [**Audio Overview: TAC Internal Communications Strategy**](TAC-IC-Strategy.mp3)\
+🎧 [**Audio Overview: TAC Internal Communications Strategy**](https://drive.google.com/file/d/1K7VdwMin9yiWXo0VOq8-OflT3q0W0L-3/view?usp=sharing)\
 &#xNAN;_&#x32;0-minute presentation explaining the strategy, insights, and recommendations_
 
 ***
@@ -222,8 +222,8 @@ Contact: \[internalcomms@tac.vic.gov.au]
 
 ## Learn More
 
-* 🎧 [Listen to the Full Strategy Presentation](TAC-IC-Strategy.mp3)
-* 📄 [Read the Strategy Summary](link-to-strategy-doc/)
-* 💬 [Discuss with the Team](link-to-teams-channel/)
+* 🎧 [Listen to the Full Strategy Presentation](https://drive.google.com/file/d/1K7VdwMin9yiWXo0VOq8-OflT3q0W0L-3/view?usp=sharing)
+* 📄 Read the Strategy Summary
+* 💬 Discuss with the Team
 
 _This playbook prototype is part of TAC's commitment to making every day matter through effective internal communications._
