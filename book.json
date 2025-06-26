@@ -1,0 +1,14 @@
+{
+    "title": "TAC Internal Communications Playbook",
+    "description": "Your guide to partnering with Internal Communications at TAC",
+    "author": "TAC Internal Communications Team",
+    "structure": {
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
+    },
+    "plugins": [
+        "search",
+        "sharing",
+        "fontsettings"
+    ]
+}
