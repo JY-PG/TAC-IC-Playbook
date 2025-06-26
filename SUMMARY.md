@@ -3,6 +3,7 @@
 ## Getting Started
 
 * [Welcome](README.md)
+* [About this prototype](about.md)
 
 ## Meet the Team
 
@@ -53,3 +54,4 @@
 * [Style Guide](resources/style-guide.md)
 * [Acronym Decoder](resources/acronyms.md)
 * [Emergency Contacts](resources/contacts.md)
+
