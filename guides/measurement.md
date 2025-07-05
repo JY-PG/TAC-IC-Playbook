@@ -15,6 +15,7 @@ What gets measured gets improved. This guide helps you track the success of your
 
 ### Benefits of measurement
 
+{% hint style="success" %}
 ✅ **Prove value**
 - Show communication ROI
 - Justify resource investment
@@ -38,6 +39,7 @@ What gets measured gets improved. This guide helps you track the success of your
 - Apply lessons to future work
 - Share best practices
 - Develop team skills
+{% endhint %}
 
 ---
 
@@ -75,11 +77,13 @@ What gets measured gets improved. This guide helps you track the success of your
 
 ### SMART measurement goals
 
+{% hint style="info" %}
 **Specific:** What exactly will you measure?  
 **Measurable:** How will you quantify it?  
 **Achievable:** Is the target realistic?  
 **Relevant:** Does it connect to business goals?  
 **Time-bound:** When will you measure it?
+{% endhint %}
 
 ### Example SMART goals
 
@@ -106,10 +110,12 @@ What gets measured gets improved. This guide helps you track the success of your
 - Bounced: <2% target
 - Blocked: <1% target
 
+{% hint style="info" %}
 **Engagement metrics**
 - Open rate: 80%+ target
 - Click rate: 15%+ target (if applicable)
 - Read time: Match content length
+{% endhint %}
 
 **Action metrics**
 - Link clicks: Track specific actions

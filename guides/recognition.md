@@ -15,6 +15,7 @@ Recognition and celebration are powerful tools for building culture, motivating 
 
 ### Impact on individuals
 
+{% hint style="success" %}
 ✅ **Increased motivation**
 - Feel valued and appreciated
 - Boost in confidence
@@ -32,6 +33,7 @@ Recognition and celebration are powerful tools for building culture, motivating 
 - Build relationships
 - Increase loyalty
 - Improve retention
+{% endhint %}
 
 ### Impact on teams
 
@@ -195,9 +197,11 @@ Recognition and celebration are powerful tools for building culture, motivating 
 
 ### The STAR method
 
+{% hint style="info" %}
 **Situation:** What was the context?  
 **Task:** What needed to be done?  
-**Action:** What did they do?  
+**Action:** What did they do?
+{% endhint %}  
 **Result:** What was the outcome?
 
 ✅ **Example using STAR:**

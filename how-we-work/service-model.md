@@ -203,6 +203,7 @@ Our service model ensures we deliver the right message, to the right people, at 
 
 ### For best results
 
+{% hint style="success" %}
 ✅ **Start early**
 
 * More time = better outcomes
@@ -226,6 +227,7 @@ Our service model ensures we deliver the right message, to the right people, at 
 * Each step has a purpose
 * Skipping steps risks quality
 * We'll guide you through
+{% endhint %}
 
 ***
 
@@ -242,10 +244,12 @@ While we follow this model, we can flex for:
 
 ### When we can't flex
 
+{% hint style="danger" %}
 * Skipping measurement
 * Bypassing approvals
 * Eliminating review cycles
 * Rushing without planning
+{% endhint %}
 
 ***
 
@@ -302,11 +306,13 @@ Typically:
 
 ### Don't:
 
+{% hint style="warning" %}
 * Leave things to last minute
 * Change requirements late
 * Skip review cycles
 * Bypass the process
 * Forget to measure
+{% endhint %}
 
 ***
 

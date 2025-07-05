@@ -37,6 +37,7 @@ Plain English means writing that is clear, concise, and easy to understand. At T
 
 ### 1. Use everyday words
 
+{% hint style="info" %}
 ❌ **Jargon/Complex**
 - utilise → use
 - facilitate → help
@@ -50,10 +51,13 @@ Plain English means writing that is clear, concise, and easy to understand. At T
 - sufficient → enough
 - endeavour → try
 - regarding → about
+{% endhint %}
 
 ### 2. Keep sentences short
 
+{% hint style="success" %}
 **Aim for:** 15-20 words per sentence
+{% endhint %}
 
 ❌ **Too long (35 words):**
 "In accordance with the policy that was recently implemented by the Executive Leadership Team, all staff members are required to complete the mandatory training module by the specified deadline."
@@ -227,10 +231,12 @@ Plain English means writing that is clear, concise, and easy to understand. At T
 - Microsoft Editor
 - Readable.com
 
+{% hint style="info" %}
 **Target scores:**
 - Flesch Reading Ease: 60-70
 - Grade level: 8-10
 - Average sentence: 15-20 words
+{% endhint %}
 
 ### The friend test
 
@@ -273,11 +279,13 @@ Read your writing aloud:
 
 ### Information overload
 
+{% hint style="warning" %}
 ❌ **Too much:**
 Trying to cover everything in one document
 
 ✅ **Just enough:**
 Key information with links to detail
+{% endhint %}
 
 ### Assuming knowledge
 

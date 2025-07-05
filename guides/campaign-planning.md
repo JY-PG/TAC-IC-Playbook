@@ -15,12 +15,14 @@ A communication campaign is a coordinated series of messages across multiple cha
 
 ### Campaign characteristics
 
+{% hint style="info" %}
 ✅ **Multiple touchpoints** - More than one communication  
 ✅ **Multiple channels** - Using different ways to reach people  
 ✅ **Coordinated timing** - Planned sequence of activities  
 ✅ **Clear objectives** - Specific, measurable goals  
 ✅ **Target audience** - Focused on who needs to hear it  
 ✅ **Consistent messaging** - Core message stays the same
+{% endhint %}
 
 ### Campaign vs single communication
 
@@ -59,10 +61,12 @@ A communication campaign is a coordinated series of messages across multiple cha
 
 ### When single comms work better
 
+{% hint style="warning" %}
 ❌ Simple updates  
 ❌ One-off announcements  
 ❌ Time-sensitive alerts  
 ❌ Routine information
+{% endhint %}
 
 ---
 
@@ -265,6 +269,7 @@ A communication campaign is a coordinated series of messages across multiple cha
 
 ### Core message architecture
 
+{% hint style="success" %}
 **Primary message** (one sentence)
 The single most important thing you want people to remember
 
@@ -276,6 +281,7 @@ Facts, benefits, examples that support key messages
 
 **Call to action** (specific step)
 Exactly what you want people to do
+{% endhint %}
 
 ### Message adaptation by channel
 

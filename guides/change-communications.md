@@ -101,7 +101,9 @@ People need to understand:
 
 ### 4. Communicate frequently
 
+{% hint style="info" %}
 **Rule of 7:** People need to hear a message 7 times in 7 different ways before they truly understand it.
+{% endhint %}
 
 **Frequency guidelines:**
 - Major change: Weekly updates minimum
@@ -283,9 +285,11 @@ People need to understand:
 
 ### System implementation
 
+{% hint style="info" %}
 **Challenge:** Technical anxiety, workflow disruption  
 **Key messages:** Training provided, gradual rollout, support available  
 **Critical success factors:** Hands-on training, super-user network, help desk
+{% endhint %}
 
 **Communication plan:**
 - 8 weeks before: Announcement
@@ -327,11 +331,13 @@ People need to understand:
 
 ### Understanding resistance
 
+{% hint style="info" %}
 **Resistance is normal**
 - Natural human response
 - Often legitimate concerns
 - Sometimes lack of information
 - May indicate real problems
+{% endhint %}
 
 **Types of resistance:**
 - Logical: "This won't work because..."
@@ -367,11 +373,13 @@ People need to understand:
 3. HR consultation
 4. Formal performance management
 
+{% hint style="warning" %}
 **Remember:**
 - Some people need more time
 - Others may never fully embrace change
 - Focus energy on those willing to move
 - Don't let resisters derail progress
+{% endhint %}
 
 ---
 

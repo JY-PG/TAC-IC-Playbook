@@ -75,12 +75,14 @@ Check the [planning calendar](../planning-calendar/planning-calendar.md) for cur
 
 ### Q: Can I send urgent communications outside business hours?
 
+{% hint style="danger" %}
 **A:** Only for genuine emergencies affecting safety or operations. For urgent communications:
 
 1. Call the emergency comms line: xxxx
 2. Explain the situation and urgency
 3. Get approval from CEO or delegate
 4. Document the reason afterwards
+{% endhint %}
 
 ### Q: How do I know if my communication conflicts with others?
 
@@ -136,6 +138,7 @@ See the [Channel Selection Guide](../how-to-guides/channel-selection.md) for det
 
 ### Q: Who can send all-staff emails?
 
+{% hint style="warning" %}
 **A:** All-staff emails require:
 
 * **Approval:** ELT member sign-off
@@ -144,6 +147,7 @@ See the [Channel Selection Guide](../how-to-guides/channel-selection.md) for det
 * **Timing:** Coordination with communication schedule
 
 Contact the IC team to request all-staff email support.
+{% endhint %}
 
 ### Q: How do I create a new Teams channel or distribution list?
 
@@ -302,6 +306,7 @@ Use our [Measurement Tools](../templates-and-tools/measurement-tools.md) to trac
 
 ### Q: What are good open rates for emails?
 
+{% hint style="info" %}
 **A:** TAC benchmarks:
 
 * **All-staff emails:** 85%+ open rate target
@@ -310,6 +315,7 @@ Use our [Measurement Tools](../templates-and-tools/measurement-tools.md) to trac
 * **Click rates:** 20%+ for emails with links
 
 These vary by audience, topic, and timing.
+{% endhint %}
 
 ### Q: How do I gather feedback on my communications?
 
@@ -413,6 +419,7 @@ Work with your manager to establish clear guidelines and build trust over time.
 
 ### Q: What if I make a mistake in a communication?
 
+{% hint style="danger" %}
 **A:**
 
 1. **Assess the impact:** How serious is the error?
@@ -422,6 +429,7 @@ Work with your manager to establish clear guidelines and build trust over time.
 5. **Improve process:** Put safeguards in place
 
 **For serious errors:** Contact the IC team immediately for support.
+{% endhint %}
 
 ### Q: People complain about communication overload. How can we fix this?
 

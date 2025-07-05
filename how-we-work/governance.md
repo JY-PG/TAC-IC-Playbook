@@ -87,12 +87,14 @@ Good governance ensures our communications are accurate, consistent, and aligned
 
 ### Legal or regulatory content
 
+{% hint style="warning" %}
 **Additional requirements**:
 
 * Legal team review
 * Compliance check
 * Risk assessment
 * Extended timeline (+2 days)
+{% endhint %}
 
 ### Financial information
 
@@ -217,11 +219,13 @@ Final approval → Distribution
 
 ### When to escalate
 
+{% hint style="warning" %}
 * Conflicting stakeholder views
 * Risk or compliance concerns
 * Timeline pressures
 * Resource constraints
 * Strategic misalignment
+{% endhint %}
 
 ### How to escalate
 
@@ -273,6 +277,7 @@ Final approval → Distribution
 
 ### Emergency approvals
 
+{% hint style="danger" %}
 **Process**:
 
 1. Contact duty manager
@@ -281,6 +286,7 @@ Final approval → Distribution
 4. Follow up when possible
 
 **Approvers**: CEO, ELT member, or designated delegate
+{% endhint %}
 
 ### Out-of-hours approvals
 

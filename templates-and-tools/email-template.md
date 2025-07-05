@@ -68,11 +68,13 @@ These templates help you write clear, engaging emails that get read and drive ac
 
 ### Writing principles
 
+{% hint style="success" %}
 * Maximum 300 words
 * Primary message in first sentence
 * One clear call to action
 * Scannable with bullet points
 * Plain English throughout
+{% endhint %}
 
 ***
 
@@ -142,10 +144,12 @@ Project progress:
 • System upgrade: Completed successfully Monday
 • Training program: 15 staff completed, 5 remaining
 
+{% hint style="success" %}
 Achievements:
 • Sarah received client commendation for excellent service
 • Team exceeded response time target by 20%
 • Zero safety incidents for 30 consecutive days
+{% endhint %}
 
 Coming up:
 • Team meeting: Friday 10am (usual room)
@@ -268,11 +272,13 @@ Hi [stakeholders],
 
 Quick update on Project Horizon progress:
 
+{% hint style="success" %}
 Completed this month:
 ✅ User testing with 25 staff (feedback very positive)
 ✅ Security review passed
 ✅ Integration testing successful
 ✅ Training materials developed
+{% endhint %}
 
 Currently working on:
 🔄 Final bug fixes (3 minor issues remaining)

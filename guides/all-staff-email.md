@@ -27,7 +27,9 @@ All-staff emails are powerful but should be used sparingly. When you need to rea
 - Personal announcements
 - External promotions
 
+{% hint style="info" %}
 **Rule of thumb:** If less than 80% of staff need this information, use targeted channels instead.
+{% endhint %}
 
 ---
 
@@ -41,11 +43,14 @@ Our data shows:
 - Mobile-friendly: Fits one screen
 
 ### Word count breakdown
+
+{% hint style="info" %}
 - Subject line: 6-8 words
 - Opening: 50 words
 - Body: 200 words
 - Call-to-action: 50 words
 - **Total: 300 words maximum**
+{% endhint %}
 
 ---
 
@@ -431,7 +436,9 @@ Test different:
 **✓ Approved by ELT?**  
 **✓ Good send time?**
 
+{% hint style="info" %}
 Print and keep at your desk!
+{% endhint %}
 
 ---
 
